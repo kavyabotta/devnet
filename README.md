@@ -1,4 +1,4 @@
-import xmltodict
+import xml
 import json
 import yaml
 
